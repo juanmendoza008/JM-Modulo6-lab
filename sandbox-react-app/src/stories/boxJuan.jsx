@@ -1,5 +1,5 @@
 
-const BoxJuan = ({size = "100px", backgroundColor="black"}) => {
+const BoxJuan = ({size = "100px", backgroundColor}) => {
     
     return (
         <div
