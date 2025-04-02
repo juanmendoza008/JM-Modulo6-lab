@@ -1,2 +1,2 @@
-# JM-Modulo6-lab
-Modulo6 React
+# module6_react_sandbox
+a basic react app sandbox for module work
